@@ -4,23 +4,35 @@
 </div>
 
 ## Acerca de
-* Este es un programa CRUD de empleandos
-* Desarrollado como trabajo en la clase _Desarollo de Sistemas II_,
+* Este es un programa CRUD de empleados conectado a una base de datos MySQL a través de los drivers JDBC
+* Desarrollado como trabajo en la clase _Desarollo de Sistemas II_, donde aprendimos por primera vez a conectar un programa de Java a una base de datos local.
 * Creado bajo la tutoría del profesor José Carlos Mercado Chan por los integrantes:
   * Alehtse María Félix Espejo
 
 ## Funcionalidades
-* Inicio de sesión con usuarios guardados en la base de datos phpMyAdmin
+* Inicio de sesión con usuarios guardados en la base de datos MySQL
 * Agregar empleados
 * Guardar a los empleados nuevos en un archivo .csv
 * Eliminar empleados
 * Selección de empleados
 * Limpiar las barras de inserción de datos
 * Ventana tipo pop-up de prueba
-* Conexión a una base de datos local phpMyAdmin
+* Conexión a una base de datos local MySQL a través de los drivers de JDBC
+
+## Dependencias
+* Java 8
+* MySQL
+* JConnector MySQL
+* IntelliJ IDE
+
+## Archivos
+* Código fuente en Java
+* Imágenes para íconos
+* Archivo de empleados csv
+* MySQL Connector
 
 ## Capturas de pantalla 
-<img width="995" height="675" alt="Screenshot (1558)" src="https://github.com/user-attachments/assets/538dd7fc-cbc3-4f1d-9906-5d4fa4f89815" />
+
 
 
 <div align="center">
