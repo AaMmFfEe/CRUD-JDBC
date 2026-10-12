@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="3222" height="215" alt="ezgif-359bae710ef0ed" src="https://github.com/user-attachments/assets/2c988d98-9bab-4002-815c-2f545252882b"/>
+  <img width="1378" height="126" alt="tumblr-5d512005d414f718a6d3690150f9be0e-da1e84e2-2048" src="https://github.com/user-attachments/assets/6502989b-6ed6-4ec8-ae5f-1f257d12eaee" />
   <h1 align="center">CRUD con JDBC/h1>
 </div>
 
@@ -20,5 +20,5 @@
 
 
 <div align="center">
-  <img width="3222" height="215" alt="ezgif-359bae710ef0ed" src="https://github.com/user-attachments/assets/2c988d98-9bab-4002-815c-2f545252882b"/>
+  <img width="1378" height="126" alt="tumblr-5381946ed1fe5b94297b75e0effb59d7-c9412988-2048" src="https://github.com/user-attachments/assets/494a9ec8-a2c8-4d4e-b9e9-472f4af47bd0" />
 </div>
