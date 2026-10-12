@@ -1,6 +1,6 @@
 <div align="center">
   <img width="1378" height="126" alt="tumblr-5d512005d414f718a6d3690150f9be0e-da1e84e2-2048" src="https://github.com/user-attachments/assets/6502989b-6ed6-4ec8-ae5f-1f257d12eaee" />
-  <h1 align="center">CRUD con JDBC/h1>
+  <h1 align="center">CRUD con JDBC </h1>
 </div>
 
 ## Acerca de
